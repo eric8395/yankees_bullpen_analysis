@@ -7,3 +7,7 @@ The saying is that you can never have enough pitching, and this is especially tr
 In particular, we’ll focus on three pitchers who were seemingly picked up under the radar and have since become integral parts of the Bronx bullpen moving forward.
 
 **Read more:** [A Visual Analysis on the Yankee’s Bullpen Arms](https://medium.com/@eric8395/a-visual-analysis-on-the-yankees-bullpen-arms-70c6265ae7b2)
+
+![image](https://user-images.githubusercontent.com/86889081/210592664-93aeedc7-1279-4d9a-bdad-b31f92740478.png)
+
+![image](https://user-images.githubusercontent.com/86889081/210592828-1b70fc24-6315-496e-840f-45be3f4fa5a7.png)
