@@ -8,6 +8,8 @@ In particular, we’ll focus on three pitchers who were seemingly picked up unde
 
 **Read more:** [A Visual Analysis on the Yankee’s Bullpen Arms](https://medium.com/@eric8395/a-visual-analysis-on-the-yankees-bullpen-arms-70c6265ae7b2)
 
-![image](https://user-images.githubusercontent.com/86889081/210592664-93aeedc7-1279-4d9a-bdad-b31f92740478.png)
 
-![image](https://user-images.githubusercontent.com/86889081/210592828-1b70fc24-6315-496e-840f-45be3f4fa5a7.png)
+<p align="center"><img width="565" src="https://user-images.githubusercontent.com/86889081/210592664-93aeedc7-1279-4d9a-bdad-b31f92740478.png"></p> 
+<p align="center"><img width="400" src="https://user-images.githubusercontent.com/86889081/210592828-1b70fc24-6315-496e-840f-45be3f4fa5a7.png"></p> 
+<p align="center"><img width="900" src="https://user-images.githubusercontent.com/86889081/210593949-ca0ef42c-531c-4b20-b17f-413ceeb90222.png"></p> 
+
